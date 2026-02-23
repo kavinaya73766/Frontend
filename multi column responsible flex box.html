@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>multi column flexbox</title>
+    <style>
+        body{
+            font-family: Arial ;
+        }
+        .container{
+            display:flex;
+            flex-wrap: wrap;
+            flex-direction: column;   
+            align-items: flex-start;  
+            gap:10px;
+        }
+        .column{
+            flex:1;
+            min-width: 200px;
+            background-color: hotpink;
+            padding: 20px;       
+            border: 1px solid black;
+        }
+        </style>
+        </head>
+        <body>
+            <h1>Multi-column responsive layout using flexbox</h1>
+            <div class="container">
+                <div class="column">column 1</div>
+                <div class="column">column 2</div>
+                <div class="column">column 3</div>
+                <div class="column">column 4</div>
+            </div>
+            
+        </body>
+</html>
