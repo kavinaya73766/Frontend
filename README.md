@@ -15,3 +15,14 @@ ppt linkk--https://www.canva.com/design/DAHAOw13cK0/LV9Fz_ybLwBxVzdVjXg7Hg/edit?
 
 
 A Registration Form is a webpage created using HTML to collect user information. It is used to register users for name, date of birth, email, gender, phone no, and address.
+
+
+                                                                                    Responsive photo gallery
+                                                                                    
+demo link-https://kavinaya73766.github.io/Responsive-photo-gallery/responsive%20photo%20gallery.html
+
+ppt link-https://www.canva.com/design/DAHA1YET9d4/dI0JWq_DWSGgvrBDlbb02Q/edit?utm_content=DAHA1YET9d4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+A Responsive Photo Gallery is a webpage layout used to display multiple images in an organized way. It automatically adjusts the number of image columns depending on the screen size (mobile, tablet, laptop, desktop).
+
+
