@@ -34,4 +34,5 @@ ppt link--https://www.canva.com/design/DAHBBoisf1s/Zbpf8s0RPqndQD-WI0E1tQ/edit?u
 A multi-column responsive layout is a webpage design where the content is arranged in multiple columns (like 1-column, 2-column, 3-column and 4 column sections). The layout automatically adjusts
 
 
+
                                                                                
