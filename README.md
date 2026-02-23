@@ -25,4 +25,13 @@ ppt link-https://www.canva.com/design/DAHA1YET9d4/dI0JWq_DWSGgvrBDlbb02Q/edit?ut
 
 A Responsive Photo Gallery is a webpage layout used to display multiple images in an organized way. It automatically adjusts the number of image columns depending on the screen size (mobile, tablet, laptop, desktop).
 
+                                                                               Multi column responsive flex box
 
+Demo link-https://kavinaya73766.github.io/Multi-column-responsive-layout-using-flexbox/multi%20column%20responsible%20flex%20box.html
+
+ppt link--https://www.canva.com/design/DAHBBoisf1s/Zbpf8s0RPqndQD-WI0E1tQ/edit?utm_content=DAHBBoisf1s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+A multi-column responsive layout is a webpage design where the content is arranged in multiple columns (like 1-column, 2-column, 3-column and 4 column sections). The layout automatically adjusts
+
+
+                                                                               
